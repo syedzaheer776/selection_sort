@@ -28,9 +28,9 @@ public class selectionsort {
 	         
 	        System.out.println("After Selection Sort");  
 	        for(int i:arr1){  
-	            System.out.print(i+" ");  
+	            System.out.println(i+" ");  
 	        }  
 	    }  
-	}  
-
+ 
 }
+
